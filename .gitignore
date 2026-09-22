@@ -1,2 +1,7 @@
 // adding the fastF1's cache.
 cache/
+
+.DS_Store
+.ipynb_checkpoints/
+automobile/
+iris.csv
